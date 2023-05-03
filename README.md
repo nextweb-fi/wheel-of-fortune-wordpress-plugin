@@ -1,6 +1,9 @@
 # Wheel Of Fortune WordPress Widget by NextWeb
 
-**Important: The Wheel of Fortune Widget, suitable for any website including WordPress, can be found at [wheelwidget.com](https://wheelwidget.com). Other popular CMS and website builders that you might consider include WebFlow, Shopify, Wix, Squarespace, Weebly, Joomla, Drupal, Magento, Ghost, and Blogger (etc.), among others. The Wheel of Fortune Widget is also suitable for any type of self-built sites using frameworks such as React, Next, Vue, Nuxt, and more.**
+## Important
+
+You can find the Wheel of Fortune Widget, which is suitable for any website including WordPress, at [wheelwidget.com](https://wheelwidget.com). Additionally, other popular CMS and website builders that you might consider include WebFlow, Shopify, Wix, Squarespace, Weebly, Joomla, Drupal, Magento, Ghost, and Blogger, among others.
+It's worth noting that the Wheel of Fortune Widget is also compatible with self-built sites using frameworks like React, Next, Vue, Nuxt, and more. So regardless of the type of website you have, the Wheel of Fortune Widget can be a great addition to engage and retain your audience.
 
 ## Basic information
 
@@ -74,8 +77,5 @@ That's it! You're now ready to take advantage of the many benefits of the Wheel 
 
 ## Changelog
 
-= 2.0.0 =
-* Update widget.
-
-= 1.0.0 =
-* Creation of the first version.
+* 2.0.0 — Updating settings, adding exclusion and inclusion of pages, adapting to work with [wheelwidget.com](https://wheelwidget.com) ID.
+* 1.0.0 — First version.
