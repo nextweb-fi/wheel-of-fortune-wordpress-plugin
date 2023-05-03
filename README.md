@@ -37,10 +37,10 @@ Installing the Wheel of Fortune Widget by NextWeb Plugin is quick and easy. Here
  1. Log in to your WordPress dashboard.
  2. Click on "Plugins" in the left-hand menu.
  3. Click on "Add New" at the top of the page.
- 4. In the search bar, type "Wheel of Fortune Widget by YWP x NextWeb" and hit enter.
+ 4. In the search bar, type "Wheel of Fortune Widget by NextWeb" and hit enter.
  5. Click on "Install Now" next to the plugin.
  6. Once the plugin is installed, click on "Activate".
- 7. Navigate to the "Settings" menu and click on "Wheel of Fortune Widget by YWP x NextWeb".
+ 7. Navigate to the "Settings" menu and click on "Wheel of Fortune Widget by NextWeb".
  8. Enter your Widget ID and choose where you want the widget to appear.
  9. Save your settings and start using the Wheel of Fortune Widget on your website.
 
