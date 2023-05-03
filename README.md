@@ -1,12 +1,12 @@
 # Wheel Of Fortune WordPress Widget by NextWeb
 
-Contributors: NextWeb Oy
-Requires at least: 5.9 
-Tested up to:  6.2 
-Stable tag: 2.0.0 
-Requires PHP: 7.2 
-License: MIT License
-License URI: https://raw.githubusercontent.com/nextweb-fi/wheel-of-fortune-wordpress-plugin/main/LICENSE
+* Contributors: NextWeb Oy
+* Requires at least: 5.9 
+* Tested up to:  6.2 
+* Stable tag: 2.0.0 
+* Requires PHP: 7.2 
+* License: MIT License
+* License URI: https://raw.githubusercontent.com/nextweb-fi/wheel-of-fortune-wordpress-plugin/main/LICENSE
 
 ## Description
 
